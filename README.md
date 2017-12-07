@@ -1,3 +1,11 @@
+#Fullstack Instagram Solution
+
+This is a fullstack app built with React + NodeJS + MongoDB
+
+The functionality includes being able to view all instagram posts, add a new post, delete a post and view additional information about each post.
+
+![alt text](https://github.com/3mi1y/Instagram_Solution/blob/master/instaSolution.png?raw=true)
+
 1) Make sure mongo DB is runnining
 `sudo mongod`
 
