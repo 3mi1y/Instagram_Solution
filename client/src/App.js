@@ -1,10 +1,7 @@
 import React, {Component} from 'react'
-<<<<<<< HEAD
 import Header from './Header'
 import Form from './Form'
 import InstaPosts from './InstaPosts'
-=======
->>>>>>> master
 import $ from 'jquery'
 
 const styles = {
@@ -18,7 +15,6 @@ const styles = {
 }
 
 class App extends Component {
-<<<<<<< HEAD
   state = {
     posts: undefined,
     title: undefined,
@@ -101,10 +97,3 @@ class App extends Component {
 }
 
 export default App
-=======
-  
-}
-
-export default App
-
->>>>>>> master
